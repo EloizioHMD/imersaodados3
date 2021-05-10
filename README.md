@@ -1,5 +1,7 @@
 # Imersão dados 3 - Alura Online
 
+![Imersão dados 3 - Alura Online](https://i.imgur.com/oS05Q7t.jpg)
+
 Trata-se de uma exelente oportunidade para dar o passo 0 acelerado rumo ao facinante mundo da ciências de dados. Neste repositório contém um conjunto de jupyter notebook das aulas imersivas e os desafios resolvidos ao longo da jornada. Os conteúdos são:
 
 > Dia 1 - **Phyton, Pandas e Pharmacia**<br>
